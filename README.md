@@ -1,6 +1,6 @@
 # BOOTCAMP-FTT
-# Desafios da FTT
-# DESAFIO ETAPA 2
+// Desafios da FTT
+// DESAFIO ETAPA 2
 
 Programa capaz de criar classes de um determinado personagem com base nas informações inseridas pelo usuário definindo seus métodos e atributos.
 
