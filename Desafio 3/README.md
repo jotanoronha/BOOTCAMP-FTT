@@ -1,4 +1,5 @@
 ### DESAFIO 03 FTT-BOOTCAMP
++ ### Um arquivo `"lista de personagens"` com um preview dos personagens inclusos no código em formato __.json__ foi adicionado.
 
 + Foram feitas algumas mudanças no código do último desafio por conta da incopatibilidade em manter a função de print e input sincronizadas com as api's.
 
